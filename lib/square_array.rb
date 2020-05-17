@@ -6,4 +6,5 @@ while array[counter] do
  counter += 1
  new_array.push
  end
+ new_array
 end
